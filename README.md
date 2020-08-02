@@ -1,4 +1,4 @@
 # portfolio
-the complete set of all my public photography, artwork, and illustrations
+regularly updated repository for my artwork.
 
 all rights reserved. email for inquiries.
